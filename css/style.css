@@ -1,0 +1,17 @@
+.first_div>img {
+    border: 4mm ridge rgba(39, 67, 209, 0.6);
+}
+
+.first_div>p {
+    font-family: monospace;
+    font-size: 16px;
+}
+
+h1, h2 {
+    color: rgb(102, 102, 244);
+    background-color: rgb(192, 192, 246);
+}
+
+.second_p, .third_p {
+    box-shadow: 2px 2px 10px blueviolet;
+}
