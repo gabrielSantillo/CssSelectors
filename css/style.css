@@ -1,5 +1,9 @@
-.first_div>img:active {
-    border: 4mm ridge rgba(39, 67, 209, 0.6);
+.first_div>img {
+    filter: grayscale(1);
+}
+
+.first_div>img:hover {
+    filter: grayscale(0);
 }
 
 .first_div>p {
