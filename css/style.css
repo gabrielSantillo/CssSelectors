@@ -1,4 +1,4 @@
-.first_div>img {
+.first_div>img:active {
     border: 4mm ridge rgba(39, 67, 209, 0.6);
 }
 
@@ -7,7 +7,7 @@
     font-size: 16px;
 }
 
-h1, h2 {
+h1, h2:active {
     color: rgb(102, 102, 244);
     background-color: rgb(192, 192, 246);
 }
@@ -18,11 +18,11 @@ h1, h2 {
     padding: 2px;
 }
 
-.second_div iframe {
+.second_div iframe:hover {
     box-shadow: 1px 1px 10px green;
 }
 
-.third_div iframe {
+.third_div iframe:hover {
     box-shadow: -3px 3px 5px purple;
 }
 
